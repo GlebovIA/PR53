@@ -16,8 +16,8 @@
             <Canvas x:Name="canvas" Margin="10" HorizontalAlignment="Left"/>
         </ScrollViewer>
         <Grid Width="200" Height="100" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10, 0, 0, 10" Background="#7fffffff">
-            <Label x:Name="currentValue" Content="Тек. знач: " Margin="10, 10, 10, 0" VerticalAlignment="Top"/>
-            <Label x:Name="averageValue" Content="Сред. знач: " Margin="10, 36, 10, 0" VerticalAlignment="Top"/>
+            <Label x:Name="current_Value" Content="Тек. знач: " Margin="10, 10, 10, 0" VerticalAlignment="Top"/>
+            <Label x:Name="average_Value" Content="Сред. знач: " Margin="10, 36, 10, 0" VerticalAlignment="Top"/>
         </Grid>
     </Grid>
 </Page>
